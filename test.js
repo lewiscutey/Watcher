@@ -51,3 +51,4 @@ let updateComponent = (vm)=>{
 new Watcher(vue,updateComponent)
 observe(data)
 new stateWatch(vue, watch)
+
