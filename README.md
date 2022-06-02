@@ -4,3 +4,6 @@
 
 ## vue-demo
 debug vue
+
+## vite-project
+debug vite
